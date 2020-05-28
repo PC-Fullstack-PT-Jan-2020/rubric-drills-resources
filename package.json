@@ -1,0 +1,19 @@
+{
+  "name": "rubrik",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "## this includes html, css, and js fundamentals, possibly react, jquery, and node as well",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "parcel": "^1.12.4"
+  }
+}
