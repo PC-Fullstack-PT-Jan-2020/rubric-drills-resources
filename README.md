@@ -14,8 +14,8 @@
 - for loop
 
 ## operators
-- + - / = * %
-- typeof
+```+ - / = * %```
+```typeof```
 
 ## data types
 - array, object, string, number, boolean, symbol
