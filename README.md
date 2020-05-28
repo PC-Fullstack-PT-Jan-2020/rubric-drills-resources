@@ -4,7 +4,7 @@
 
 ### js
 
-# variables (let, var, const)
+## variables (let, var, const)
 - what is the difference between let var and const
 - what is a block?
 - block scoping
