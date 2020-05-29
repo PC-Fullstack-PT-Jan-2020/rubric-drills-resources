@@ -71,3 +71,5 @@ const users = [
 
 // toggle the status of user by id, if they are active make them inactive and vice versa
 // NOTE: return the entire array back as a copy
+
+// make a function that takes a range (start, end) and returns an array of those numbers
