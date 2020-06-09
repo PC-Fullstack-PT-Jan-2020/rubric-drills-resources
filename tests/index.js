@@ -1,5 +1,5 @@
 import './array'
-import './ajax'
+import './ajax-and-async'
 import './classes'
 import './conditionals'
 import './data-types'
