@@ -1,0 +1,1 @@
+// what are the 6 primitive data types? (hint: 1 is symbol)
