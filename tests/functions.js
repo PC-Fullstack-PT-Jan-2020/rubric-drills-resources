@@ -47,7 +47,7 @@
 
 // make a function called vowelMap that gets the count of vowel
 // and nonvowel characters
-vowelMap('abc hello') // {vowel: 3, nonvowel: 5}
+// vowelMap('abc hello') // {vowel: 3, nonvowel: 5}
 
 // make a function that takes an array and number and calls another
 // function which gets that number when found
