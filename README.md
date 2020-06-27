@@ -1,5 +1,7 @@
 # rubrik for comprehension
 
+```yarn install```
+
 ## this includes html, css, and js fundamentals, possibly react, jquery, and node as well
 
 ### js
